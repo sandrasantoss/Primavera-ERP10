@@ -1,6 +1,0 @@
-D:\Sandra\Primavera\PEX\FichaEntidadesAssociarIdioma\bin\Debug\FichaEntidadesAssociarIdioma.dll
-D:\Sandra\Primavera\PEX\FichaEntidadesAssociarIdioma\bin\Debug\FichaEntidadesAssociarIdioma.pdb
-D:\Sandra\Primavera\PEX\FichaEntidadesAssociarIdioma\obj\Debug\Primavera.FichaEntidades.AssociarIdioma.csproj.CoreCompileInputs.cache
-D:\Sandra\Primavera\PEX\FichaEntidadesAssociarIdioma\obj\Debug\FichaEntidadesAssociarIdioma.dll
-D:\Sandra\Primavera\PEX\FichaEntidadesAssociarIdioma\obj\Debug\FichaEntidadesAssociarIdioma.pdb
-D:\Sandra\Primavera\PEX\FichaEntidadesAssociarIdioma\obj\Debug\Primavera.FichaEntidades.AssociarIdioma.csproj.AssemblyReference.cache
